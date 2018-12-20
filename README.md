@@ -1,1 +1,1 @@
-# ML-and-AI . Applied AI . Real Life Examples
+# ML-and-AI . Applied AI . Python Implementation
